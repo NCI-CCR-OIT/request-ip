@@ -1,5 +1,5 @@
 {
-  "name": "request-ip",
+  "name": "@OITcode/request-ip",
   "version": "3.3.0",
   "description": "A small Node.js module to retrieve the request's IP address",
   "keywords": [
@@ -34,9 +34,8 @@
   "bugs": {
     "url": "https://github.com/pbojinov/request-ip/issues"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/pbojinov/request-ip.git"
+  "publishConfig": {
+    "registry": "https://oitrepo.ccr.cancer.gov/repository/npm-hosted/"
   },
   "license": "MIT",
   "author": "Petar Bojinov <petarbojinov+github@gmail.com>",
