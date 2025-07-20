@@ -30,13 +30,16 @@
     "cloudflare",
     "Cf-Pseudo-IPv4"
   ],
-  "homepage": "https://github.com/pbojinov/request-ip",
+  "homepage": "https://github.com/NCI-CCR-OIT/request-ip",
   "bugs": {
-    "url": "https://github.com/pbojinov/request-ip/issues"
+    "url": "https://github.com/NCI-CCR-OIT/request-ip/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pbojinov/request-ip.git"
+    "url": "git+https://github.com/NCI-CCR-OIT/request-ip"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   },
   "license": "MIT",
   "author": "Petar Bojinov <petarbojinov+github@gmail.com>",
