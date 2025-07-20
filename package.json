@@ -1,5 +1,5 @@
 {
-  "name": "request-ip",
+  "name": "@nci-ccr-oit/request-ip",
   "version": "3.3.0",
   "description": "A small Node.js module to retrieve the request's IP address",
   "keywords": [
